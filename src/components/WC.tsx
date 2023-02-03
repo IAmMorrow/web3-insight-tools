@@ -292,7 +292,7 @@ export function WC({ onAction }: WCProps) {
               htmlFor="wcURI"
               className="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
             >
-              WC URI
+              Wallet Connect v1 URI
             </label>
             <input
               type="text"
